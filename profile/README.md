@@ -4,14 +4,11 @@
 
 ## Our Solutions
 
-### 🧠 HUB
-Edge AI platform that makes your CCTV cameras smart through natural language training.
-
-### 🗼 Tower
-Plug-and-play surveillance kit with HUB, 4G, cameras & backup power in a weatherproof case.
-
-### 👁️ Sentinel
-AI-powered visual monitoring with natural language querying for CCTV footage.
+| Product | Description |
+|---------|-------------|
+| 🧠 HUB | Edge AI platform that makes your CCTV cameras smart through natural language training |
+| 🗼 Tower | Plug-and-play surveillance kit with HUB, 4G, cameras & backup power in a weatherproof case |
+| 👁️ Sentinel | AI-powered visual monitoring with natural language querying for CCTV footage |
 
 ## Why Securade.ai? ✨
 - **Smart:** Generative AI at the edge

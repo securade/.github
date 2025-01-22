@@ -20,4 +20,4 @@ AI-powered visual monitoring with natural language querying for CCTV footage.
 
 ---
 
-Built with 💪 by Securade.ai | Making workplaces safer through AI
+Built with 💪 by [Securade.ai](https://securade.ai) | Making workplaces safer through AI

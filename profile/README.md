@@ -17,4 +17,4 @@
 
 ---
 
-Built with 💪 by [Securade.ai](https://securadeai.com) | Making workplaces safer through AI
+Built with 💪 by [SecuradeAI](https://securadeai.com) | Making workplaces safer through AI

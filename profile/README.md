@@ -1,4 +1,4 @@
-# Securade.ai 🛡️
+# SecuradeAI 🛡️
 
 > Preventing workplace accidents with Generative AI-powered video analytics.
 
